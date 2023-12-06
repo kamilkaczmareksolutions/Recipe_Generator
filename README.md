@@ -3,7 +3,7 @@
 ![GUI_screenshot](https://github.com/kamilkaczmareksolutions/Recipe_Generator/assets/95218485/96a2b42d-dc90-4516-bfb0-cc7b87426e4f)
 
 ## Introduction
-The Recipe Generator is a GUI application that leverages the power of GPT-3.5 to generate 1000 kcal recipes, focusing on bulking diets. Designed to cater to specific dietary preferences and caloric requirements, it emphasizes variety and taste, offering a unique solution for managing dietary goals.
+The Recipe Generator is a GUI application that leverages the power of GPT to generate 1000 kcal recipes, focusing on bulking diets. Designed to cater to specific dietary preferences and caloric requirements, it emphasizes variety and taste, offering a unique solution for managing dietary goals.
 
 ## Why Use the Recipe Generator?
 - **High Customizability**: Tailor every aspect of your diet – from meal types to cuisines and protein sources. This allows for a personalized diet plan that caters to individual tastes and nutritional needs.
