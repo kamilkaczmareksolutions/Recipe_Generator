@@ -14,7 +14,7 @@ import time
 # ===============================
 
 # OpenAI Configuration
-openai_model = "gpt-4"
+openai_model = "gpt-4-1106-preview"
 openai_temperature = 0.7
 
 # GUI Configuration

@@ -1,5 +1,7 @@
 # Recipe Generator for Customizable Bulking Diets
 
+![GUI_screenshot](https://github.com/kamilkaczmareksolutions/Recipe_Generator/assets/95218485/96a2b42d-dc90-4516-bfb0-cc7b87426e4f)
+
 ## Introduction
 The Recipe Generator is a GUI application that leverages the power of GPT-3.5 to generate 1000 kcal recipes, focusing on bulking diets. Designed to cater to specific dietary preferences and caloric requirements, it emphasizes variety and taste, offering a unique solution for managing dietary goals.
 
@@ -33,6 +35,8 @@ The Recipe Generator is a GUI application that leverages the power of GPT-3.5 to
 3. **User Feedback and Progress Tracking**:
    - Real-time feedback on the number of recipes generated and estimated time remaining (in console).
 
+![Output_screenshot](https://github.com/kamilkaczmareksolutions/Recipe_Generator/assets/95218485/5e3bf655-2aa5-4f18-bf57-f4c126b9f1a9)
+
 ## Installation
 1. Ensure Python is installed on your system.
 2. Clone or download the Recipe Generator code.
@@ -59,3 +63,4 @@ Contributions are welcome! If you have suggestions or improvements, please feel 
 ## Notes
 - The best models for recipe generation are from 'GPT-4 family' but other like GPT-3.5 Turbo can also be effective.
 - The estimated time for recipe generation is based on the time taken to create the first recipe and is adjusted as more recipes are generated.
+- This thing is not generating instructions how you should prepare your meals, however you can add it to the prompt, if you want.
